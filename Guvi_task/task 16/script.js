@@ -18,13 +18,13 @@ setTimeout(function(){
                                     document.getElementById("countdown").textContent="1";
                                     setTimeout(function(){
                                         document.getElementById("countdown").textContent="Happy Independence Day!!!";
-                                    },1000)
-                                },1000)
-                            },1000)
-                        },1000)
-                    },1000)
-                },1000)
-            },1000)
-        },1000)
-    },1000)
+                                    },1000);
+                                },1000);
+                            },1000);
+                        },1000);
+                    },1000);
+                },1000);
+            },1000);
+        },1000);
+    },1000);
 },1000);
